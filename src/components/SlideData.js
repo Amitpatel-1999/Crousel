@@ -1,0 +1,22 @@
+export const SlideData = [
+  {
+    image:
+      "https://images.unsplash.com/photo-1621210069749-6f5bb2be4342?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxOXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1621210076591-579f1963a594?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1621201523018-4744fee81b17?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1621206593424-6e4e8f6336e9?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzM3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1621222150404-c30aca64f556?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzOHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+  },
+];
